@@ -1,6 +1,6 @@
 {
   "name": "zoom-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy way to run a console logger",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "console",
-    "term-logger",
+    "zoom-logger",
     "discord logger",
     "chalk",
     "logger"
